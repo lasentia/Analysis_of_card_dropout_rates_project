@@ -9,7 +9,7 @@
 |Marital Status|	혼인 상태|
 |Income Category|	소득 카테고리|
 |Card Category|	신용카드 종류|
-|Months on Book	신용카드 보유 기간|
+|Months on Book|	신용카드 보유 기간|
 |Total Relationship Count|	신용카드 제공자와의 총 관계 수|
 |Months Inactive 12 Mon|	지난 12개월 동안 비활성이었던 개월 수|
 |Contacts Count 12 Mon|	지난 12개월 동안의 연락 횟수|
